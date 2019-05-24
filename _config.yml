@@ -1,5 +1,5 @@
 title: FuPC的个人网站
 description: 尝试使用GitHub建立一个动态网站[2019.3.29]
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-leap-day
